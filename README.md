@@ -14,9 +14,9 @@
 Free local solver for StarLabs soft
 
 ## Установка / Installation
-1. Клонировать репозиторий / Clone the repository:
+1. Установить / Installation:
 ```bash
-git clone https://github.com/Theyka/Turnstile-Solver
+https://github.com/Theyka/Turnstile-Solver
 ```
 
 2. В файле изменить адрес сервера / Change server address in file:
