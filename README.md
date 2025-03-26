@@ -25,7 +25,8 @@ self.base_url = "http://localhost:5000" → self.base_url = "ваш_адрес"
 ```
 
 3. Заменить файл / Replace file:
-Скопировать нужный файл в папку и переименовать / copy  file in folder and rename
+
+Скопировать нужный файл в папку и переименовать / copy  file in folder and rename:
 ```
 StarLabs-MegaETH/src/model/help/captcha.py
 or
