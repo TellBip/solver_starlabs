@@ -1,3 +1,14 @@
+<div align="center">
+
+  <p align="center">
+    <a href="https://t.me/cry_batya">
+      <img src="https://img.shields.io/badge/Telegram-Channel-blue?style=for-the-badge&logo=telegram" alt="Telegram Channel">
+    </a>
+    <a href="https://t.me/+b0BPbs7V1aE2NDFi">
+      <img src="https://img.shields.io/badge/Telegram-Chat-blue?style=for-the-badge&logo=telegram" alt="Telegram Chat">
+    </a>
+  </p>
+</div>
 # Solver StarLabs
 
 Free local solver for StarLabs soft
