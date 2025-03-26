@@ -39,7 +39,7 @@ class Solvium:
     ):
         self.api_key = api_key
         self.proxy = proxy
-        self.base_url = "http://185.246.222.137:5000"
+        self.base_url = "http://localhost:5000"
         self.session = session
 
     def _format_proxy(self, proxy: str) -> str:
